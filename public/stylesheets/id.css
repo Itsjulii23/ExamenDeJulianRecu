@@ -1,0 +1,8 @@
+.container{
+    border: red solid 2px;
+    display:grid;
+    justify-items: center;
+    grid-template-columns: repeat(1,1fr);
+    gap:4px;
+    padding: 2vh;
+  }
