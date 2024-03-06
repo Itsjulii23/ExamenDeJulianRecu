@@ -13,7 +13,7 @@ git add .
 
 --Hacemos el commit para la subida de los archivos
 
-git commit -m "Se agrega el Proyecto"
+git commit -m "Primera Version"
 
 --Configuramos nuestro email y nuestro usuario
 
@@ -22,7 +22,7 @@ git config --global user.email j.campillosmartinez@gmail.com
 git config --global user.name itsjulii23
 
 --Hacemos el commit
-git commit -m "Se agrega el Proyecto"
+git commit -m "Primera Version"
 
 --Cambio de ramas
 
